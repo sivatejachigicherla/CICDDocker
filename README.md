@@ -1,5 +1,5 @@
 # Github Actions course
-Test
+
 DevOps became very imprtant for organiztions willing to automate and modernaze their workloads. Thanks to its capabilities, it is never been easier create a pipelin that can do all the required staps to build 'almost' any kind of application and deploy 'almost' to any environment. All of this with a click of a button.
 
 Not only that, using DevOps features makes it possible to secure the pipelines when managing secrets or when connecting to the target production environment. That become today what is known as DevSecOps.
